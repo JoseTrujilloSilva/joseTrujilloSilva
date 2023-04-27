@@ -1,4 +1,5 @@
-<h1>Hola mi nombre es Jose 👋</h1>
+<h1>Bienvenido al github de Jose 👋</h1>
+<div style="background-color: white; height: 1px;"></div>
 
 <!--
 **JoseTrujilloSilva/joseTrujilloSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
