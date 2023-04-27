@@ -1,6 +1,6 @@
 <h1>GITHUB EN PROCESO........</h1>
 
- <div style="padding: 0px 230px;">
+    <div style="padding: 0px 230px;">
         <h1>Bienvenido al github de Jose 👋</h1>
         <div style="background-color: white; height: 1px;"></div>
         <div style="margin-top: 20px;">
@@ -21,7 +21,7 @@
             <h2>Tecologías que manejo:</h2>
         </div>
         <div>
-            (https://mcusercontent.com/0b295a66caf0c9124725811d6/files/e6b32516-ebec-3633-53b0-bd37dc1e1ed7/globe.svg)
+            🌐
             &nbsp;
             <span type="button" style="border: none; background-color: orange; border-radius: 3px; padding: 5px;">HTML</span>
         </div>
