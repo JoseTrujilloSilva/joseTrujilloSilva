@@ -1,3 +1,11 @@
+<style>
+        body{
+            text-align: center;
+            background-color: #0d1117;
+            color: white;
+        }
+    </style>
+
 <h1>Bienvenido al github de Jose 👋</h1>
 <div style="background-color: white; height: 1px;"></div>
 
