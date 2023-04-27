@@ -1,6 +1,5 @@
 <h1>GITHUB EN PROCESO........</h1>
-
-    <div style="padding: 0px 230px;">
+<div style="padding: 0px 230px;">
         <h1>Bienvenido al github de Jose 👋</h1>
         <div style="background-color: white; height: 1px;"></div>
         <div style="margin-top: 20px;">
