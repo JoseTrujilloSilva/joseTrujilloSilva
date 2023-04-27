@@ -20,8 +20,9 @@
             <h2>Tecologías que manejo:</h2>
         </div>
         <div>
-            🌐
-           <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt="">
+            <ul>
+            <li> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt=""></li>    
+            </ul>
         </div>
     </div>
 
