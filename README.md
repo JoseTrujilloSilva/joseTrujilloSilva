@@ -21,7 +21,7 @@
         </div>
         <div>
             <ul>
-            <li><span>WEB</span> 🌐: <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt=""> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/52fdde4f-443f-cdbb-1bf2-ff80efc5cd35.png" alt=""></li> 
+            <li><span>WEB</span> 🌐: <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt=""> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/52fdde4f-443f-cdbb-1bf2-ff80efc5cd35.png" alt=""><img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/43e52a37-9d93-2dd2-1288-505079a68877.png" alt=""></li> 
             </ul>
         </div>
     </div>
