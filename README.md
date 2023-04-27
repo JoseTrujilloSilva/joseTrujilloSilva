@@ -21,8 +21,7 @@
         </div>
         <div>
             🌐
-            &nbsp;
-            <span type="button" style="border: none; background-color: orange; border-radius: 3px; padding: 5px;">HTML</span>
+           <img src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt="">
         </div>
     </div>
 
