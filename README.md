@@ -1,9 +1,10 @@
-<div style="padding: 0px 230px;">
+ <div style="padding: 0px 230px;">
         <h1>Bienvenido al github de Jose 👋</h1>
         <div style="background-color: white; height: 1px;"></div>
         <div style="margin-top: 20px;">
             <span style="font-family: Arial, Helvetica, sans-serif;">Desarrolador web, diseñador web.</span>
         </div>
+        <br>
         <div style="margin-top: 30px;">
             <a href="https://github.com/JoseTrujilloSilva/joseTrujilloSilva/blob/main/CurriculumVitae_modelo01-1.pdf">
                 <img style="width: 100%;" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/60d62dd2-9079-906e-18e8-33107e4a42b4.png" alt="">
