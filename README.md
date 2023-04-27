@@ -21,8 +21,7 @@
         </div>
         <div>
             <ul>
-            <li> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt=""></li>
-            <li> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/52fdde4f-443f-cdbb-1bf2-ff80efc5cd35.png" alt=""></li>     
+            <li> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/b1980975-a657-1deb-59ee-12da963e5423.png" alt=""> <img width="90px" src="https://mcusercontent.com/0b295a66caf0c9124725811d6/images/52fdde4f-443f-cdbb-1bf2-ff80efc5cd35.png" alt=""></li> 
             </ul>
         </div>
     </div>
