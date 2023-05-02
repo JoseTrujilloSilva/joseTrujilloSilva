@@ -13,7 +13,7 @@
         </div>
         <br>
         <div>
-            <span>Soy un temprano desarrolador web que comenzó en el año 2022.</span>
+            <span>Soy un temprano desarrolador web que comenzó en el año 2021.</span>
         </div>
         <br>
         <div>
